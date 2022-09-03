@@ -1,0 +1,30 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "First lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pootrash/Lab1.git"
+  },
+  "keywords": [
+    "lab",
+    "lab",
+    "work",
+    "lab1",
+    "first",
+    "lab"
+  ],
+  "author": "pootrash",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pootrash/Lab1/issues"
+  },
+  "homepage": "https://github.com/pootrash/Lab1#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
